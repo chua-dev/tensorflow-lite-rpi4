@@ -44,7 +44,8 @@ interpreter=''
 labels=''
 model=''
 model_type=''
-model_dir = '/var/www/html/coralai_models'
+#model_dir = '/var/www/html/coralai_models'
+model_dir = '/Users/p2digital/Documents/tflite_models_2'
   
 model_dict =	{
   "mobilenet_v1_1.0_224_quant.tflite": "imagenet_labels.txt",
