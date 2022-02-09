@@ -72,17 +72,6 @@ https://youtu.be/7gWCekMy1mw
    <script src="web/js/jquery.min.js"></script>            
    <script>
 	   var model = {
-		    b1:"mobilenet_v1_1.0_224_quant.tflite",
-			b2:"mobilenet_v2_1.0_224_quant.tflite",
-			b3:"mobilenet_v2_1.0_224_inat_bird_quant.tflite",
-			b4:"mobilenet_v2_1.0_224_inat_insect_quant.tflite",
-			b5:"mobilenet_v2_1.0_224_inat_plant_quant.tflite",
-			b6:"inception_v1_224_quant.tflite",
-			b7:"inception_v2_224_quant.tflite",
-			b8:"inception_v3_299_quant.tflite",
-			b9:"inception_v4_299_quant.tflite",
-			b10:"mobilenet_ssd_v1_coco_quant_postprocess.tflite",
-			b11:"mobilenet_ssd_v2_coco_quant_postprocess.tflite",
 			b12:"mobilenet_ssd_v2_face_quant_postprocess.tflite"
 		   };
 	
@@ -201,3 +190,18 @@ echo"</div>";
 
 </body>
 </html>
+
+
+<!-- 
+			    b1:"mobilenet_v1_1.0_224_quant.tflite",
+			b2:"mobilenet_v2_1.0_224_quant.tflite",
+			b3:"mobilenet_v2_1.0_224_inat_bird_quant.tflite",
+			b4:"mobilenet_v2_1.0_224_inat_insect_quant.tflite",
+			b5:"mobilenet_v2_1.0_224_inat_plant_quant.tflite",
+			b6:"inception_v1_224_quant.tflite",
+			b7:"inception_v2_224_quant.tflite",
+			b8:"inception_v3_299_quant.tflite",
+			b9:"inception_v4_299_quant.tflite",
+			b10:"mobilenet_ssd_v1_coco_quant_postprocess.tflite",
+			b11:"mobilenet_ssd_v2_coco_quant_postprocess.tflite",
+-->

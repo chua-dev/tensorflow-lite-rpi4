@@ -48,17 +48,6 @@ model_type=''
 model_dir = '/Users/p2digital/Documents/tflite_models_2'
   
 model_dict =	{
-  "mobilenet_v1_1.0_224_quant.tflite": "imagenet_labels.txt",
-  "mobilenet_v2_1.0_224_quant.tflite": "imagenet_labels.txt",
-  "mobilenet_v2_1.0_224_inat_bird_quant.tflite":"inat_bird_labels.txt",
-  "mobilenet_v2_1.0_224_inat_insect_quant.tflite":"inat_insect_labels.txt",
-  "mobilenet_v2_1.0_224_inat_plant_quant.tflite":"inat_plant_labels.txt",
-  "inception_v1_224_quant.tflite": "imagenet_labels.txt",
-  "inception_v2_224_quant.tflite": "imagenet_labels.txt",
-  "inception_v3_299_quant.tflite": "imagenet_labels.txt",
-  "inception_v4_299_quant.tflite": "imagenet_labels.txt",
-  "mobilenet_ssd_v1_coco_quant_postprocess.tflite": "coco_labels.txt",
-  "mobilenet_ssd_v2_coco_quant_postprocess.tflite": "coco_labels.txt",
   "mobilenet_ssd_v2_face_quant_postprocess.tflite": "coco_labels.txt"
 }
 
